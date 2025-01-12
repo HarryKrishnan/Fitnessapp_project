@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/HarryKrishnan/jwt-auth
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/HarryKrishnan/flutter-pc
